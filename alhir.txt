@@ -8,9 +8,6 @@
 !
 ! forras: hvg.hutudomany20150119_atveros_weboldalak
 !
-! A szuro hasznalata a feltetelek automatikus elfogadasat jelenti.
-! By using the filter you automatically accept the terms of use.
-!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ||anepszava.com^
