@@ -5,8 +5,7 @@
 ! Title: Magyar Álhír Blocker
 ! Expires: 16 hours
 ! Version: 20230206
-!
-! forras: hvg.hutudomany20150119_atveros_weboldalak
+! Source: https://hvg.hu/tudomany/20150119_atveros_weboldalak
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
