@@ -1,10 +1,10 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Magyar Álhír Blocker
 !
-! Homepage: https:github.comsimkoGalhir-blocker
+! Homepage: https://github.com/simkoG/alhir-blocker
 ! Title: Magyar Álhír Blocker
 ! Expires: 16 hours
-! Version: 201802061742
+! Version: 20230206
 !
 ! forras: hvg.hutudomany20150119_atveros_weboldalak
 !
